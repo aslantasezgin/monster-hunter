@@ -50,7 +50,7 @@ const App = () => {
 
   return(
     <div className='App'>
-       <h1 className='app-title'>MONSTER HUNTER FOR BTCINK AND SEZGIN </h1>
+       <h1 className='app-title'>MONSTER HUNTER FOR BTCINK </h1>
        <SearchBox onChangeHandler={onSearchChange}
         placeholder={"Search Monster"} 
         type={"search"} 
