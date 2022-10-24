@@ -1,0 +1,262 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1671,
+            142
+        ]
+    },
+    {
+        "time": 1.65,
+        "action": 3,
+        "coordinate": [
+            1787,
+            30
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1482,
+            347
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1258,
+            569
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1051,
+            746
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            999,
+            949
+        ]
+    },
+    {
+        "time": 3.14,
+        "action": 3,
+        "coordinate": [
+            1011,
+            1040
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            963,
+            747
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            762,
+            766
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            923,
+            565
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1130,
+            515
+        ]
+    },
+    {
+        "time": 5.74,
+        "action": 3,
+        "coordinate": [
+            1110,
+            468
+        ]
+    },
+    {
+        "time": 7.7,
+        "action": 4,
+        "coordinate": [
+            1096,
+            487
+        ],
+        "direction": "down"
+    },
+    {
+        "time": 0.14,
+        "action": 4,
+        "coordinate": [
+            1096,
+            487
+        ],
+        "direction": "down"
+    },
+    {
+        "time": 0.27,
+        "action": 4,
+        "coordinate": [
+            1096,
+            487
+        ],
+        "direction": "down"
+    },
+    {
+        "time": 0.38,
+        "action": 4,
+        "coordinate": [
+            1096,
+            487
+        ],
+        "direction": "up"
+    },
+    {
+        "time": 0.11,
+        "action": 4,
+        "coordinate": [
+            1096,
+            487
+        ],
+        "direction": "up"
+    },
+    {
+        "time": 1.34,
+        "action": 0,
+        "key": "Key.alt_l"
+    },
+    {
+        "time": 0.26,
+        "action": 0,
+        "key": "Key.ctrl_l"
+    },
+    {
+        "time": 0.28,
+        "action": 0,
+        "key": "\u00df"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "\u00df"
+    },
+    {
+        "time": 0.05,
+        "action": 1,
+        "key": "Key.alt_l"
+    },
+    {
+        "time": 0.01,
+        "action": 1,
+        "key": "Key.ctrl_l"
+    },
+    {
+        "time": 1.63,
+        "action": 0,
+        "key": "2"
+    },
+    {
+        "time": 0.13,
+        "action": 0,
+        "key": "0"
+    },
+    {
+        "time": 0.04,
+        "action": 1,
+        "key": "2"
+    },
+    {
+        "time": 0.06,
+        "action": 1,
+        "key": "0"
+    },
+    {
+        "time": 1.54,
+        "action": 0,
+        "key": "Key.tab"
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "Key.tab"
+    },
+    {
+        "time": 0.1,
+        "action": 0,
+        "key": "j"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "j"
+    },
+    {
+        "time": 0.33,
+        "action": 0,
+        "key": "Key.tab"
+    },
+    {
+        "time": 0.16,
+        "action": 1,
+        "key": "Key.tab"
+    },
+    {
+        "time": 0.53,
+        "action": 0,
+        "key": "j"
+    },
+    {
+        "time": 0.06,
+        "action": 1,
+        "key": "j"
+    },
+    {
+        "time": 0.26,
+        "action": 0,
+        "key": "Key.enter"
+    },
+    {
+        "time": 0.18,
+        "action": 1,
+        "key": "Key.enter"
+    },
+    {
+        "time": 0.59,
+        "action": 0,
+        "key": "Key.enter"
+    },
+    {
+        "time": 0.13,
+        "action": 1,
+        "key": "Key.enter"
+    },
+    {
+        "time": 2.1,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]

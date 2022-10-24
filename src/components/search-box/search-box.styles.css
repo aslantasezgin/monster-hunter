@@ -1,0 +1,11 @@
+.search-box{
+    box-sizing: border-box;
+    padding: 17px 24px;
+    background-color: rgba(0, 0, 0, 0.498);
+    color: #fff;
+    text-align: center;
+    border-radius: 13px;
+    border: 1px solid rgba(255,255,255,0.09);
+    font-size: 22px;
+
+}

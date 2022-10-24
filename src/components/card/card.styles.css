@@ -1,0 +1,25 @@
+
+
+.card-container{width: 25%;
+    padding: 24px;
+    border: 1px solid rgba(255,255,255,0.1);
+    box-sizing: border-box;
+    transition: all 0.3s;
+    overflow: hidden ;
+    }
+    
+    .card-container h1, h2{
+        font-size: 21px;
+        font-weight: 300;
+        color: #fff;
+    }
+    
+    .card-container p{
+        font-size: 17px;
+        color: #fff;
+    }
+    
+    .card-container:hover{
+        transform: scale(1.04);
+        background-color: #0ccac4;
+    }
